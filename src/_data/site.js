@@ -18,4 +18,6 @@ export default {
   intro:
     "TeknoCom International Competition 2025 is a fully online international competition hosted by Universitas Teknokrat Indonesia. HowToBeASepuh placed 3rd in the Cyber Security (CTF) branch — below are our write-ups for every challenge we solved.",
   repo: "https://github.com/HowToBeASepuh/teknocomp-ctf-2025",
+  // Canonical origin for absolute URLs (sitemap); no custom domain in use.
+  origin: "https://howtobeasepuh.github.io",
 };
